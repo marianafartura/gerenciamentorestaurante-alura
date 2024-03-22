@@ -11,8 +11,8 @@ This is a simple command-line application developed in Python for managing resta
 ## Getting Started
 
 1. Clone the repository: `git clone https://github.com/marianafartura/gerenciamentorestaurante-alura.git`
-2. Navigate to the project directory: `cd restaurant-management`
-3. Run the program: `python restaurant_management.py`
+2. Navigate to the project directory: `cd restaurant_app`
+3. Run the program: `python restaurant_app.py`
 
 ## Usage
 
